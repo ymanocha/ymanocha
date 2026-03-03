@@ -63,6 +63,4 @@ Tools         ->  Git  .  Postman  .  NPM
 
 **open to backend internship opportunities**
 
-[linkedin](https://linkedin.com/in/yashmanocha) &nbsp;|&nbsp; yashmanocha19@gmail.com
-
 </div>

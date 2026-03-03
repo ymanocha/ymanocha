@@ -61,6 +61,4 @@ Tools         ->  Git  .  Postman  .  NPM
 
 <div align="center">
 
-**open to backend internship opportunities**
-
 </div>
